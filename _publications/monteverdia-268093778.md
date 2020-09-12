@@ -9,7 +9,7 @@ R... y Fernández, J. (2019). Outcomes of the university project “Prevention o
 . <i>Monteverdia</i>, 12 (2), e3273. https://revistas.reduc.edu.cu/index.php/monteverdia/3273'
 ---
 
-#
+.....
 
 # Abstract
 
