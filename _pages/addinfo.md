@@ -16,16 +16,16 @@ Program Climate Change in Cuba: impacts, mitigation and adaptation, Department o
 rology, Higher Institute of Technologies and Applied Sciences, Cuba, 2015 -2016
 
 # Thesis Supervision
-* Supervisor: Método de relocalización de vórtice para el sistema de pronóstico numérico de
+* <b>Supervisor</b>: Método de relocalización de vórtice para el sistema de pronóstico numérico de
 ciclones tropicales NTHF. Bachelor Thesis, Higher Institute of Technologies and Applied Sci-
 ences, University of Havana, Cuba, 2020.
-* Co-supervisor: Pronóstico numérico del viento a mesoescala y a corto plazo para el Aerop-
+* <b> Co-supervisor</b>: Pronóstico numérico del viento a mesoescala y a corto plazo para el Aerop-
 uerto José Martí de la Habana. Bachelor Thesis, Higher Institute of Technologies and Applied
 Sciences, University of Havana, Cuba, 2019.
-* Co-supervisor: Propuesta de un método de cálculo de la presión para un modelo de in-
+* <b>Co-supervisor</b>: Propuesta de un método de cálculo de la presión para un modelo de in-
 tensidad potencial. Bachelor Thesis, Higher Institute of Technologies and Applied Sciences,
 University of Havana, Cuba, 2017.
-* Co-supervisor: Patrones regionales de distribución temporal de la precipitación generada
+* <b>Co-supervisor</b>: Patrones regionales de distribución temporal de la precipitación generada
 por ciclones tropicales en Cuba Cuba estimada por el modelo WRF. Bachelor Thesis, Higher
 Institute of Technologies and Applied Sciences, University of Havana, Cuba, 2017.
 
