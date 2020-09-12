@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Bachelor in Meteorology"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/BS_Met
+venue: "Department of Meteorology, Higher Institute of Technologies and Applied Sciences, University of Havana"
+date: 2015-09-01
+location: "Havana, CUba"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I'm teaching since 01 September 2015
 
-Heading 1
+Subjects
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+* Fluid Mechanics
+* Physical Meteorology
+* Dynamic Meteorology
+* Numerical Weather Prediction 
+* Python for Meteorologists
