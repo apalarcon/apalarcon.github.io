@@ -3,7 +3,7 @@ title: "Diploma of Meteorology for aeronautical meteorological technicians"
 collection: teaching
 type: "Diploma"
 permalink: /teaching/diploma_aero
-venue: "Department of Meteorology, Higher Institute of Technologies and Applied Scciences"
+venue: "Department of Meteorology, Higher Institute of Technologies and Applied Sciences"
 date: 2016-01-01
 location: "Havana, Cuba"
 ---
