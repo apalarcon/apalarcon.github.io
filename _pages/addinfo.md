@@ -17,7 +17,7 @@ rology, Higher Institute of Technologies and Applied Sciences, Cuba, 2015 -2016
 
 
 # Patent and intellectual property registrations
-* QvaWeather: a Android mobile application for the dissemination of the weather forecast in
+* QvaWeather: an Android mobile application for the dissemination of the weather forecast in
 Cuba. Registered in the Copyright Office. Havana, Cuba, 2019
 
 
