@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "MSc. Albenis Pérez Alarcón"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Albenis Pérez Alarcón"
+description              : &description "Head of Department of Meteorology, Higher Institue of Technologies and Applied Sciences, University of Havana, Cuba. </br> PhD Student, Environmental Physics Laboratory, University of Vigo, Spain."
 url                      : https://apalarcon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "apalarcon/apalarcon.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Albenis Pérez Alarcón"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Head of Department of Meteorology, Higher Institue of Technologies and Applied Sciences, University of Havana, Cuba. </br> PhD Student, Environmental Physics Laboratory, University of Vigo, Spain"
+  location         : "Havana, Cuba"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com/citations?user=tmWL2WUAAAAJ&hl=es"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Albenis_Perez_Alarcon" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "apalarcon"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/albenis-pérez-alarcón-a04203101"
+  orcid            : "http://orcid.org/0000-0002-9454-2331"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "albenispa"
   vine             :
   weibo            :
   xing             :
