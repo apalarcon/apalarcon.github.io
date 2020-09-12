@@ -10,9 +10,13 @@ redirect_from:
 
 # Personal Information
 <b> Name </b>: Albenis Pérez Alarcón
+
 <b> Gender</b>: Male
+
  <b> Date of birth </b>: 5 Febraury 1991
+ 
 <b>Nationality</b>: Cuban
+
 <b>email</b>: apalarcon1991 at gmail.com
 
 # Profesional Interest
