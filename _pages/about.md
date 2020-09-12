@@ -19,6 +19,9 @@ redirect_from:
 
 <b>email</b>: apalarcon1991 at gmail.com
 
+<b>Memberships</b>: Meteorological Society of Cuba
+
+
 # Profesional Interest
 <b>Meteorology and Climatology</b>
 * Climate Variability,
