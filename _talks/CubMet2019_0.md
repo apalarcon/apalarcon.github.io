@@ -1,7 +1,7 @@
 ---
 title: "Validación del pronóstico de precipitación realizado por el sistema: Herramintas Numéricas para el Pronóstico de Huracanes."
 collection: talks
-type: "IX Congreso Cubano de Meteorología"
+type: "X Congreso Cubano de Meteorología"
 permalink: /talks/CubMet2019_0
 venue: "Havana, Cuba"
 date: 2019-12-02
