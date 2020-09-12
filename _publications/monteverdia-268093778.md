@@ -4,11 +4,10 @@ collection: publications
 permalink: /publication/monteverdia-268093778
 date: 2019-08-01
 venue: 'Monteverdia'
+---
 Recommended citation: 'Azanza Ricardo, J., Forneiro Martin-Viaña, Y., Martínez González, Y., Márquez, L., <b>Pérez Alarcón, A.</b>, Calderón Peña,
 R... y Fernández, J. (2019). Outcomes of the university project “Prevention of the climate change effects on endangered species
 . <i>Monteverdia</i>, 12 (2), e3273. https://revistas.reduc.edu.cu/index.php/monteverdia/3273'
----
-
 
 
 # Abstract
