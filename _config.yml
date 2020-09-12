@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Albenis Pérez Alarcón"
-  avatar           : "profile.png"
+  avatar           : "albe.png"
   bio              : "Head of Department of Meteorology, Higher Institue of Technologies and Applied Sciences, University of Havana, Cuba. </br> PhD Student, Environmental Physics Laboratory, University of Vigo, Spain"
   location         : "Havana, Cuba"
   employer         :
-  pubmed           : ""
+  pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=tmWL2WUAAAAJ&hl=es"
-  email            :
+  email            : "apalarcon1991@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Albenis_Perez_Alarcon" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
