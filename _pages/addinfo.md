@@ -15,6 +15,13 @@ in Cuba, Institute of Meteorology, Cuba, 2018
 Program Climate Change in Cuba: impacts, mitigation and adaptation, Department of Meteo-
 rology, Higher Institute of Technologies and Applied Sciences, Cuba, 2015 -2016
 
+
+# Patent and intellectual property registrations
+* QvaWeather: a Android mobile application for the dissemination of the weather forecast in
+Cuba. Registered in the Copyright Office. Havana, Cuba, 2019
+
+
+
 # Thesis Supervision
 * <b>Supervisor</b>: Método de relocalización de vórtice para el sistema de pronóstico numérico de
 ciclones tropicales NTHF. Bachelor Thesis, Higher Institute of Technologies and Applied Sci-
