@@ -1,11 +1,15 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Global warming and tropical cyclone activity in the North Atlantic basin"
 collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+type: "27th APDR Congress"
+permalink: /talks/27APDR
+venue: "Portugal"
+date: 2020-09-10
+location: ""
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Recommended citation: <b>Pérez-Alarcón, A.</b>, Fernández-Alvarez, J. C, Sorí, R, Nieto, R, Gimeno, L (2020). Global
+warming and tropical cyclone activity in the North Atlantic basin. In Procedings The 27th APDR
+Congress. Portugal, 10-11 September 2020
+
+# Abstact
