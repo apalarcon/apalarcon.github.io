@@ -8,7 +8,7 @@ date: 2016-01-01
 location: "Havana, Cuba"
 ---
 
-This course were  teached from  January 2016 to June 2016
+This course was taught from  January 2016 to June 2016
 
 Subject
 ======
