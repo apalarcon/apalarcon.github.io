@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Precipitation Forecast of System: Numerical Tools for Hurricane Forecast"
+title: "The Role of Tropical Cyclones on the Total Precipitation in Cuba during the Hurricane Season from 1980 to 2016"
 collection: publications
 permalink: /publication/atmos1156
 date: 2020-10-26
