@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Meteorology, Higher Institute of Technologies and Applied Sciences, Cuba, 2015
 * M.S. in Meteorology, Higher Institute of Technologies and Applied Sciences, University of Havana, Cuba, 2019
-* Ph.D Student, Environmental Physiscs Laboratory, University of Vigo, 2019 - present
+* Ph.D Student, Environmental Physics Laboratory, University of Vigo, 2019 - present
 
 Work experience
 ======
@@ -24,7 +24,7 @@ Work experience
   * Ourense, Spain
 
 
-* Septemrber 2019 - Present: Head of Department
+* Septemrber 2019 - January 2021: Head of Department
   * Department of Meteorology
   * Higher Institute of Technologies and Applied Sciences
   * University of Havana
