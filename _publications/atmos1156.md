@@ -6,7 +6,7 @@ date: 2020-10-26
 venue: 'Atmosphere'
 citation: 'Fernández-Alvarez, J.C.; Sorí, R.; <b>Pérez-Alarcón, A.</b>; Nieto, R.; Gimeno, L.(2020).
 The Role of Tropical Cyclones on the Total Precipitation in Cuba during the Hurricane Season from 1980
-to 2016 <i>Atmosphere</i>,11, 1156, doi:10.3390/atmos11111156'
+to 2016, <i>Atmosphere</i>,11, 1156, doi:10.3390/atmos11111156'
 ---
 ......  
 
