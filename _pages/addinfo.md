@@ -20,7 +20,8 @@ Cuba. Registered in the Copyright Office. Havana, Cuba, 2019
 
 # Softwares
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4493258.svg)](https://doi.org/10.5281/zenodo.4493257)</br>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4493258.svg)](https://doi.org/10.5281/zenodo.4493257)
+
 <b>Pérez-Alarcón, A.</b>; Fernández-Alvarez, J.C. (2021). Alarconpy: A Python Package for Meteorologists (Version 1.0.3). Zenodo. doi: 10.5281/zenodo.4493258 </br>
 
 # Thesis Supervision
