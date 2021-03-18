@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CV MSc. Albenis Pérez Alarcón"
+title                    : "Curriculum Vitae"
 title_separator          : "-"
 name                     : &name "Albenis Pérez Alarcón"
 description              : &description "Assistant Professor, Department of Meteorology, Higher Institue of Technologies and Applied Sciences, University of Havana, Cuba. </br> PhD Student, Environmental Physics Laboratory, University of Vigo, Spain."
