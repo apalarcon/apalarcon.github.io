@@ -1,7 +1,7 @@
 ---
 title: "Pronóstico mensual de precipitaciones en la cuenca Almendares - Vento empleando redes neuronales y modelos autorregresivos"
 collection: talks
-type: "VII Congreso de Cambio Climático (Cuba)"
+type: "VII Congreso de Cambio Climático"
 permalink: /talks/CambioClim2021
 venue: "Cuba"
 date: 2021-07-05
