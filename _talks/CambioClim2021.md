@@ -1,7 +1,7 @@
 ---
 title: "Pronóstico mensual de precipitaciones en la cuenca Almendares - Vento empleando redes neuronales y modelos autorregresivos"
 collection: talks
-type: "VII Congreso de Cambio Climático"
+type: "XIII Convención Internacional sobre Medio Ambiente y Desarrollo en VII Congreso sobre Cambio Climático"
 permalink: /talks/CambioClim2021
 venue: "Cuba"
 date: 2021-07-05
@@ -10,7 +10,8 @@ location: ""
 
 Recommended citation: Martínez-González, Y.; <b>Pérez-Alarcón, A.</b>, García-Cortez, D. A.; Fernández-Alvarez, J. C. (2021). Pronóstico mensual 
 de precipitaciones en la cuenca Almendares - Vento empleando redes neuronales y modelos autorregresivos. In Procedings of The VII 
-Congreso de Cambio Climático. La Habana, Cuba, 5-9 July 2021,  ISBN 978-959-300-210-3. https://drive.google.com/drive/u/0/folders/1bqucOmBWP3NiVyDp0bbRIP7sF93VfpR6
+Congreso de Cambio Climático. La Habana, Cuba, 5-9 July 2021,  ISBN 978-959-300-210-3. https://drive.google.com/drive/u/0/folders/1bqucOmBWP3NiVyDp0bbRIP7sF93VfpR6. 
+Poster at https://doi.org/10.13140/RG.2.2.18092.39040
 
 # Abstact
 El pronóstico de precipitaciones es considerado de vital importancia para evaluar la disponibilidad de recursos hídricos en una cuenca. En esta
