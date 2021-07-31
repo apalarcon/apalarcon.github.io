@@ -1,5 +1,5 @@
 ---
-title: " Sistema para el pronóstico numérico de ciclones tropicales en Cuba."
+title: "Simulación numérica de las condiciones meteorólogias durante eventos extremos y su efecto en la anidación de las tortugas"
 collection: talks
 type: "Congreso Mar Cuba"
 permalink: /talks/MarCuba2018
