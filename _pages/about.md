@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Personal Information
-<b> Name </b>: Albenis Pérez Alarcón
+<b> Name </b>: Albenis Pérez Alarcón ---> <span id="badgeCont451"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont451&rid=AAP-2320-2021&size=small"></script></span>
 
 <b> Gender</b>: Male
 
@@ -32,7 +32,6 @@ redirect_from:
 * Climate Change
 * Moisture Transport: from Evaporation to Precipitation
 
-<span id="badgeCont496"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont496&rid=AAP-2320-2021"></script></span>
-<span id="badgeCont451"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont451&rid=AAP-2320-2021&size=small"></script></span>
+
 # Last Update
 31 July 2021
