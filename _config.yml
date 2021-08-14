@@ -116,6 +116,10 @@ author:
   youtube          :
   wikipedia        :
   publons          : "https://publons.com/researcher/AAP-2320-2021"
+  links:
+    - label: "Email"
+      icon: "https://www.imk-tro.kit.edu/download/profile_share_badge.png"
+      url: "mailto:billyrick@rick.com"
 
 # Reading Files
 include:
