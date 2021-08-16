@@ -62,7 +62,7 @@ facebook:
   username               : &facebook "albenispa"
   app_id                 :
   publisher              :
-og_image                 :  "http://rcm.insmet.cu/public/journals/1/homeHeaderTitleImage_es_ES.png" # Open Graph/Twitter default site image
+og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -84,7 +84,7 @@ author:
   avatar           : "albe.png"
   bio              : "-Assistant Professor, Department of Meteorology, Higher Institue of Technologies and Applied Sciences, University of Havana, Cuba. </br> -PhD Student, Environmental Physics Laboratory, University of Vigo, Spain"
   location         : "Ourense, Spain"
-  employer         :
+  employer         : 
   publons           : "https://publons.com/researcher/AAP-2320-2021/"
   googlescholar    : "https://scholar.google.com/citations?user=tmWL2WUAAAAJ&hl=es"
   email            : "apalarcon1991@gmail.com"
