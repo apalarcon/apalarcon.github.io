@@ -62,7 +62,7 @@ facebook:
   username               : &facebook "albenispa"
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  "http://rcm.insmet.cu/public/journals/1/homeHeaderTitleImage_es_ES.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
