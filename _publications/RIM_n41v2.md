@@ -6,7 +6,7 @@ date: 2021-12-01
 venue: 'Revista de Investigaciones Marinas'
 citation: 'Ricardo, J. A.; Guerra, C. C.; Borges, A. M.; Alvarez, J. C. F.; <b>Pérez-Alarcón, A.</b>, González, Y. M.; Calderón, R. P.; 
 Betancourt, R. A.; Varela,R. M. (2021). Impact of meteorological events on the marine turtles’ reproductive success at Guanahacabibes 
-Peninsula, Cuba, <i>Revista de Investigaciones Marinas</i>,48(2),109-125, http://www.rim.uh.cu/index.php/RIM/article/download/437/463'
+Peninsula, Cuba, <i>Revista de Investigaciones Marinas</i>,41(2),109-125, http://www.rim.uh.cu/index.php/RIM/article/download/437/463'
 ---
 ......  
 
