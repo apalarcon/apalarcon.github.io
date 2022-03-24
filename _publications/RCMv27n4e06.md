@@ -5,7 +5,7 @@ permalink: /publication/RCMv27n4e06
 date: 2021-12-22
 venue: 'Revista Cubana de Meteorología'
 citation: 'Coll-Hidalgo, P.; <b>Pérez-Alarcón, A.</b> (2021).
-Climatology of landfalling tropical cyclones in Cuba from 1980 to 2019 <i>Revista Cubana de Meteorología</i>,27(4),1-11,
+Climatology of landfalling tropical cyclones in Cuba from 1980 to 2019. <i>Revista Cubana de Meteorología</i>, 27(4), 1-11,
 https://cu-id.com/2377/v27n4e06'
 ---
 ......  
