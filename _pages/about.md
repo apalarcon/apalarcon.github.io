@@ -28,6 +28,10 @@ redirect_from:
 * Climate Change
 * Moisture Transport: from Evaporation to Precipitation
 
+# Reviewer for
+* Meteorology and Atmospheric Physics
+* Revista Cubana de Meteorología
+* Revista Cubana de Física
 
 # Last Update
 5 March 2022
