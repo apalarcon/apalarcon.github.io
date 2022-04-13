@@ -6,8 +6,8 @@ permalink: /publication/meteorology_0100010
 date: 2022-04-13
 venue: 'Meteorology'
 citation: '<b>Pérez-Alarcón, A.</b>; Fernández-Alvarez, J.C. (2022).
-  The First Five Years of the Operational Runs of the Numerical Tools for Hurricane Forecast (NTHF) during the North Atlantic Tropical Cyclone Season
- <i>Meteorology</i>,1, 154-161.  https://doi.org/10.3390/meteorology1020010'
+  The First Five Years of the Operational Runs of the Numerical Tools for Hurricane Forecast (NTHF) during the North Atlantic Tropical Cyclone Season, 
+ <i>Meteorology</i>, 1, 154-161. <a target="blank" href="https://doi.org/10.3390/meteorology1020010"> https://doi.org/10.3390/meteorology1020010 </a>'
 ---
 
 ......  
