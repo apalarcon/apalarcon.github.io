@@ -26,7 +26,7 @@ in forecasting the maximum wind speed (minimum pressure) ranged from 26.5 km/h (
 33.7 km/h (11.7 hPa). Moreover, the highest BIAS in the intensity forecast was found in the first 48 h,
 suggesting that model initialization is the main driver of NTHF errors in the forecast maximum wind
 speed and the minimum central pressure of TCs in the North Atlantic Basin.
-h
+
 
 
 
