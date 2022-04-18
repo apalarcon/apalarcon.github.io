@@ -3,7 +3,7 @@ title: "Estimation of the mean water vapour residence time during tropical cyclo
 collection: talks
 type: "Convención Meteorología 2021"
 permalink: /talks/CubaMet2021-1
-venue: "Havana, Cuba"
+venue: "Hotel Tryp Havana Libre"
 date: 2021-12-06
 location: "Havana, Cuba"
 ---
