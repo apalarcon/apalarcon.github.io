@@ -3,7 +3,7 @@ title: "Método de relocalización de vórtice para el sistema de pronóstico nu
 collection: talks
 type: "Convención Meteorología 2021"
 permalink: /talks/CubaMet2021-2
-venue: "Havana, Cuba"
+venue: "Hotel Tryp Havana Libre"
 date: 2021-12-06
 location: "Havana, Cuba"
 ---
