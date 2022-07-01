@@ -2,7 +2,7 @@
 title: "Vortex relocation method for the Numerical Tools for Hurricane Forecast (NTHF) system"
 collection: publications
 permalink: /publication/RCMv28n2
-date: 2021-12-22
+date: 2022-05-16
 venue: 'Revista Cubana de Meteorología'
 citation: 'Rodrígez Navarro, O.; <b>Pérez-Alarcón, A.</b>; Díaz-Zurita,A. (2022).
 Vortex relocation method for the Numerical Tools for Hurricane Forecast (NTHF) system. <i>Revista Cubana de Meteorología</i>, 28(2),
