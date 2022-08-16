@@ -5,7 +5,7 @@ permalink: /publication/TCRR_78
 date: 2022-08-13
 venue: 'Tropical Cyclone Research and Review'
 citation: ' <b>Pérez-Alarcón, A.</b>; Coll-Hidalgo, P.; Fernández-Alvarez, J.C.; Nieto, R.; Gimeno, L. (2022).
-Estimation of mean water vapour residence time during tropical cyclones using a Lagrangian approach. <i>Tropical Cyclone Research and Review</i>. 
+Estimation of mean water vapour residence time during tropical cyclones using a Lagrangian approach. <i>Tropical Cyclone Research and Review</i>, 11(2),102:113. 
 <a href="https://doi.org/10.1016/j.tcrr.2022.08.001" target="blank">https://doi.org/10.1016/j.tcrr.2022.08.001</a>'
 ---
 
