@@ -2,9 +2,9 @@
 title: "Improving Monthly Rainfall Forecast in a Watershed by Combining Neural Networks and Autoregressive Models"
 collection: publications
 permalink: /publication/EnvProcess2022-9-53
-date: 2021-12-22
+date: 2022-08-24
 venue: 'Environmental Processes'
-citation: <b>Pérez-Alarcón, A.</b>; Garcia-Crotes, D.; Fernandez-Alvarez, J.C.; Martínez-González, Y. (2022).
+citation: '<b>Pérez-Alarcón, A.</b>; Garcia-Crotes, D.; Fernandez-Alvarez, J.C.; Martínez-González, Y. (2022).
 Improving Monthly Rainfall Forecast in a Watershed by Combining Neural Networks and Autoregressive Models. <i>Environmental Processes</i>, 9, 53,
 <a href="https://doi.org/10.1007/s40710-022-00602-x" target="blank"> https://doi.org/10.1007/s40710-022-00602-x </a>'
 ---
