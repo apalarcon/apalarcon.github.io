@@ -84,12 +84,12 @@ author:
   avatar           : "albe.png"
   bio              : "-Assistant Professor, Department of Meteorology, Higher Institue of Technologies and Applied Sciences, University of Havana, Cuba. </br> -PhD Student, Environmental Physics Laboratory, University of Vigo, Spain"
   location         : "Ourense, Spain"
-  employer         : 
+  employer         : "https://ephyslab.uvigo.es/albenis-perez-alarcon/"
   publons           : "https://publons.com/researcher/AAP-2320-2021/"
   googlescholar    : "https://scholar.google.com/citations?user=tmWL2WUAAAAJ&hl=es"
   email            : "apalarcon1991@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Albenis_Perez_Alarcon" # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :  "https://ephyslab.uvigo.es/albenis-perez-alarcon/"
+  uri              :  
   bitbucket        :
   codepen          :
   dribbble         :
