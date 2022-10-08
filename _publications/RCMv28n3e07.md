@@ -2,7 +2,7 @@
 title: "A sensitivy study of microphysics schemes of the wrf-arw model for low-level wind shear forecast in José Martí International Airport during 
 convective storms."
 collection: publications
-permalink: /publication/v28n3e07
+permalink: /publication/RCMv28n3e07
 date: 2022-05-16
 venue: 'Revista Cubana de Meteorología'
 citation: 'Coll-Hidalgo, P.; <b>Pérez-Alarcón, A.</b>; González-Jardines, P. M.; Góngora-González, C. M.; Díaz-Zurita,A. (2022).
