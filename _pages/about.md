@@ -32,6 +32,9 @@ redirect_from:
 * Meteorology and Atmospheric Physics
 * Revista Cubana de Meteorología
 * Revista Cubana de Física
+* Atmosphere
+* Journal of Climate
+
 
 # Last Update
-5 March 2022
+25 October 2022
