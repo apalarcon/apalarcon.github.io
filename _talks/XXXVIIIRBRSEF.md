@@ -9,7 +9,7 @@ location: "Murica, Spain"
 ---
 
 Recommended citation: <b>Pérez-Alarcón, A.</b>; Fernández-Alvarez, J.C., Nieto, R.; Gimeno, L. (2022). Overview of moisture sources for the precipitation 
-of tropical cyclones through a Lagrangian approach <i>XXXVIII Reunión Bienal de la Real Sociedad Española de Física </i>. Murcia, 11-15 de Julio de 2022.
+of tropical cyclones through a Lagrangian approach <i>XXXVIII Reunión Bienal de la Real Sociedad Española de Física </i>. Murcia, 11-15 July 2022.
  
 
 
