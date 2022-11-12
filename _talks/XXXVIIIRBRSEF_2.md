@@ -10,7 +10,7 @@ location: "Murica, Spain"
 
 Recommended citation:  Fernández-Alvarez, J.C.; <b>Pérez-Alarcón, A.</b>; Eiras-Barca, J.; Ramos, A.; Nieto, R.; Gimeno, L. (2022). 
 Atmospheric Rivers moisture sources projections landfalling the Iberian Peninsula. <i>XXXVIII Reunión Bienal de la Real Sociedad 
- Española de Física </i>. Murcia, 11-15 July 2022.
+ Española de Física </i>. Murcia, 11-15 July 2022. <a href="https://www.um.es/fisica/bienal-2022/assets/content/AS6.pdf" target="blank">https://www.um.es/fisica/bienal-2022/assets/content/AS6.pdf</a>
  
 
 
