@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Personal Information
-<b> Name </b>: Albenis Pérez Alarcón ---> <span id="badgeCont451"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont451&rid=AAP-2320-2021&size=small"></script></span>
+<b> Name </b>: Albenis Pérez Alarcón 
 
 <b> Gender</b>: Male
  
