@@ -2,7 +2,7 @@
 title: "How much of precipitation over the Euroregion Galicia – Northern Portugal is due to tropical-origin cyclones?: A Lagrangian approach"
 collection: publications
 permalink: /publication/AtmosRes_106640
-date: 2023-02-01
+date: 2023-02-03
 venue: 'Atmospheric Research'
 citation: ' <b>Pérez-Alarcón, A.</b>; Fernández-Alvarez, J.C.; Sorí, R.; Liberato, M.L.R; Trigo, R.M.; Nieto, R.; Gimeno, L. (2023).
 How much of precipitation over the Euroregion Galicia – Northern Portugal is due to tropical-origin cyclones?: A Lagrangian approach.
