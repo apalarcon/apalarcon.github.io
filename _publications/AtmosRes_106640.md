@@ -6,7 +6,7 @@ date: 2023-02-01
 venue: 'Atmospheric Research'
 citation: ' <b>Pérez-Alarcón, A.</b>; Fernández-Alvarez, J.C.; Sorí, R.; Liberato, M.L.R; Trigo, R.M.; Nieto, R.; Gimeno, L. (2023).
 How much of precipitation over the Euroregion Galicia – Northern Portugal is due to tropical-origin cyclones?: A Lagrangian approach.
- <i>Atmospheric Research</i>, 285C, 106640.
+ <i>Atmospheric Research</i>, 285, 106640.
 <a href="https://doi.org/10.1016/j.atmosres.2023.106640" target="blank">https://doi.org/10.1016/j.atmosres.2023.106640</a>'
 ---
 
