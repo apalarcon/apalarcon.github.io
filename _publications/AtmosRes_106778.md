@@ -6,7 +6,7 @@ date: 2023-04-24
 venue: 'Atmospheric Research'
 citation: ' <b>Pérez-Alarcón, A.</b>; Coll-Hidalgo, P.; Fernández-Alvarez, J.C.; Trigo, R.M.; Nieto, R.; Gimeno, L. (2023).
 Climatological variations of moisture sources for precipitation of North Atlantic tropical cyclones linked to their tracks.
- <i>Atmospheric Research</i>, 289, 106778.
+ <i>Atmospheric Research</i>, 290, 106778.
 <a href="https://doi.org/10.1016/j.atmosres.2023.106778" target="blank">https://doi.org/10.1016/j.atmosres.2023.106778</a>'
 ---
 
