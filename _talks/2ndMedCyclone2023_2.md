@@ -10,7 +10,7 @@ location: "Toulouse, France"
 
 Recommended citation: Coll-Hidalgo, P.; <b>Pérez-Alarcón, A.</b>;  Nieto, R. (2023). 
 Where does the precipitation moisture for the Medicane Qendresa come from? <i> 2nd MedCyclones Workshop & 9th European Storm Workshop</i>.
-Toulouse, France, 28-30 June 2023. <a href="http://meteo.fr/cic/meetings/2023/medcyclones-europeanstorms/mcesw_abstracts_ps2.pdf">http://meteo.fr/cic/meetings/2023/medcyclones-europeanstorms/mcesw_abstracts_ps2.pdf</a>
+Toulouse, France, 28-30 June 2023. <a href="https://meteo.fr/cic/meetings/2023/medcyclones-europeanstorms/mcesw_abstracts_ps2.pdf">https://meteo.fr/cic/meetings/2023/medcyclones-europeanstorms/mcesw_abstracts_ps2.pdf</a>
 
 # Abstract
 
