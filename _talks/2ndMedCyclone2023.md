@@ -4,7 +4,7 @@ collection: talks
 type: "2nd MedCyclones Workshop & 9th European Storm Workshop"
 permalink: /talks/2ndMedCyclone2023
 venue: "COST ACTION CA19109"
-date: 29-06-2023
+date: 28-06-2023
 location: "Toulouse, France"
 ---
 
