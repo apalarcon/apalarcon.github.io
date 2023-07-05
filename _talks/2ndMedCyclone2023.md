@@ -9,7 +9,7 @@ location: "Toulouse, France"
 ---
 
 Recommended citation: <b>Pérez-Alarcón, A.</b>; Fernández-Alvarez, J.C.; Sorí, R.; Liberato, M.L.R.; Trigo, R.M.; Nieto, R., Gimeno, L. (2023). 
-Role of post-tropical cyclones in the hydrological cycle of the northwestern Iberian Peninsula. <i> 2nd MedCyclones Workshop & 9th European Storm Workshop </i>.
+Role of post-tropical cyclones in the hydrological cycle of the northwestern Iberian Peninsula. <i> 2nd MedCyclones Workshop & 9th European Storm Workshop</i>.
 Toulouse, France, 28-30 June 2023.
 
 # Abstract
