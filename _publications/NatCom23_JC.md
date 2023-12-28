@@ -1,0 +1,25 @@
+---
+title: "Projected changes in atmospheric moisture transport contributions associated with climate warming in the North Atlantic"
+collection: publications
+permalink: /publication/NatCom23_JC
+date: 2023-10-14
+venue: 'Nature Communications'
+citation: 'Fernández-Alvarez, J.C.; <b>Pérez-Alarcón, A.</b>; ; Eiras-Barca, J.; Rahimi, S.;  Nieto, R.; Gimeno, L. (2023).
+Projected changes in atmospheric moisture transport contributions associated with climate warming in the North Atlantic. 
+<i>Nature Communications</i>, 14, 6476.
+<a href="https://doi.org/10.1038/s41467-023-41915-1" target="blank">https://doi.org/10.1038/s41467-023-41915-1</a>'
+---
+
+......  
+
+# Abstract
+Global warming and associated changes in atmospheric circulation patterns are expected to alter the hydrological cycle,
+including the intensity and position of moisture sources. This study presents predicted changes for the middle and end of
+the 21st century under the SSP5-8.5 scenario for two important extratropical moisture sources: the North Atlantic Ocean (NATL)
+and Mediterranean Sea (MED). Changes over the Iberian Peninsula—considered as a strategic moisture sink for its location—are 
+also studied in detail. By the end of the century, moisture from the NATL will increase precipitation over eastern North 
+America in winter and autumn and on the British Isles in winter. Moisture from the MED will increase precipitation over 
+the southern and western portions of the Mediterranean continental area. Precipitation associated with the MED moisture 
+source will decrease mainly over eastern Europe, while that associated with the NATL will decrease over western Europe and
+Africa. Precipitation recycling on the Iberian Peninsula will increase in all seasons except summer for mid-century.
+Climate change, as simulated by CESM2 thus modifies atmospheric moisture transport, affecting regional hydrological cycles.
