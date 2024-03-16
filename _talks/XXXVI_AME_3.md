@@ -12,7 +12,7 @@ Recommended citation: Coll-Hidalgo, P., <b>Pérez-Alarcón, A.</b>, Fernández-A
 Anomalous moisture transport related to landfalling extratropical cyclones over the Iberian Peninsula. <i> XXXVI Jornadas
 Científicas de la Asociación Meteorológica Española </i>. Cadiz, Spain,
 13-15 March 2024. <a href="https://jornadas.ame-web.org/wp-content/uploads/2024/03/41-19-FINAL_Resumen_PC_cor.pdf"
-                    target="blank">https://jornadas.ame-web.org/wp-content/uploads/2024/03/41-19-FINAL_Resumen_PC_cor.pdf</a>
+                    target="blank">[PDF]</a>
 
 
 # Abstract
