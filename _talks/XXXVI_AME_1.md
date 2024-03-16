@@ -9,8 +9,7 @@ date: 13-03-2024
 location: "Cadiz, Spain"
 ---
 
-Recommended citation: Ernst, J., Sori, R., Stojanovic, M., Vázquez, M., <b>Pérez-Alarcón, A.</b> (2024).
-(2022).Effects of the western Mediterranean oscillation in the moisture transport
+Recommended citation: Ernst, J., Sori, R., Stojanovic, M., Vázquez, M., <b>Pérez-Alarcón, A.</b> (2024).Effects of the western Mediterranean oscillation in the moisture transport
 from the Mediterranean Sea and the North Atlantic Ocean: implications on precipitation patterns over 
 the Iberian Peninsula <i> XXXVI Jornadas Científicas de la Asociación Meteorológica Española </i>. Cadiz, Spain,
 13-15 March 2024. <a href="https://jornadas.ame-web.org/wp-content/uploads/2024/03/02-18-FINAL_Resumen_Jakob_arreglado.pdf"
