@@ -12,7 +12,7 @@ Recommended citation: Fernández-Alvarez, J.C., <b>Pérez-Alarcón, A.</b>, Eira
 Projections of moisture sources under climate change for the atmospheric rivers that reach the Iberian Peninsula. <i> XXXVI Jornadas
 Científicas de la Asociación Meteorológica Española </i>. Cadiz, Spain,
 13-15 March 2024. <a href="https://jornadas.ame-web.org/wp-content/uploads/2024/03/45-02-FINAL_Resumen_Cadiz_ARs_casi.pdf"
-                    target="blank">https://jornadas.ame-web.org/wp-content/uploads/2024/03/45-02-FINAL_Resumen_Cadiz_ARs_casi.pdf</a>
+                    target="blank">[PDF]</a>
 
 
 # Abstract
