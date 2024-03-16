@@ -4,7 +4,7 @@ Atlantic Ocean: implications on precipitation patterns over the Iberian Peninsul
 collection: talks
 type: "XXXVI Jornadas Científicas de la Asociación Meteorológica Española"
 permalink: /talks/XXXVI_AME_1
-venue: "AME"
+venue: ""
 date: 13-03-2024
 location: "Cadiz, Spain"
 ---
