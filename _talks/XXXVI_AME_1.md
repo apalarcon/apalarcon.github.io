@@ -5,7 +5,7 @@ collection: talks
 type: "XXXVI Jornadas Científicas de la Asociación Meteorológica Española"
 permalink: /talks/XXXVI_AME_1
 venue: "AME"
-date: 13-03-2023
+date: 13-03-2024
 location: "Cadiz, Spain"
 ---
 
