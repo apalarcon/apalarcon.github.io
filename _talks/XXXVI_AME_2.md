@@ -11,7 +11,7 @@ location: "Cadiz, Spain"
 Recommended citation: Fernández-Alvarez, J.C., Costoya,X., <b>Pérez-Alarcón, A.</b>, Nieto, R., Gimeno, L. (2024). 
 Future changes for v10 and offshore wind energy density using CMIP6 projections in the North Atlantic Ocean. <i> XXXVI Jornadas Científicas de la Asociación Meteorológica Española </i>. Cadiz, Spain,
 13-15 March 2024. <a href="https://jornadas.ame-web.org/wp-content/uploads/2024/03/18-06-FINAL_Resumen_Jose_Carlos_Fernandez_Alvarez_VER-2.0.pdf"
-                    target="blank">https://jornadas.ame-web.org/wp-content/uploads/2024/03/18-06-FINAL_Resumen_Jose_Carlos_Fernandez_Alvarez_VER-2.0.pdf</a>
+                    target="blank">[PDF]</a>
 
 
 # Abstract
