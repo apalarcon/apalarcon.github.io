@@ -26,13 +26,7 @@ Pérez-Alarcón, A.; Coll-Hidalgo, P.; Trigo, R.M.; Nieto, R.; Gimeno, L. (2024)
 
 Fernández-Alvarez, J.C.; Pérez-Alarcón, A.; Nieto, R.; Gimeno, L. (2022). TROVA: TRansport Of water VApor. SoftwareX, 20, 101228, https://doi.org/10.1016/j.softx.2022.101228
 
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6475215.svg)](https://doi.org/10.5281/zenodo.6475215)
-
 Pérez-Alarcón, A.; Fernández-Alvarez, J.C.; Díaz-Rodríguez, O; (2021). Hurricane Maximum Potential Intensity Model, Revista Cubana de Física, 38(2), 85-93, http://www.revistacubanadefisica.org/index.php/rcf/article/view/2021v38p085
-
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4493257.svg)](https://doi.org/10.5281/zenodo.4493257)
 
 <b>Pérez-Alarcón, A.</b>; Fernández-Alvarez, J.C. (2021). Alarconpy: A Python Package for Meteorologists (Version 1.0.3). Zenodo. doi: 10.5281/zenodo.4493258 </br>
 
