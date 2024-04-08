@@ -28,7 +28,7 @@ Cuba. Registered in the Copyright Office. Havana, Cuba, 2019
 
 *  <b>Pérez-Alarcón, A.</b>; Fernández-Alvarez, J.C.; Díaz-Rodríguez, O; (2021). Hurricane Maximum Potential Intensity Model, Revista Cubana de Física, 38(2), 85-93, http://www.revistacubanadefisica.org/index.php/rcf/article/view/2021v38p085
 
-<b>Pérez-Alarcón, A.</b>; Fernández-Alvarez, J.C. (2021). Alarconpy: A Python Package for Meteorologists (Version 1.0.3). Zenodo. doi: 10.5281/zenodo.4493258 </br>
+* <b>Pérez-Alarcón, A.</b>; Fernández-Alvarez, J.C. (2021). Alarconpy: A Python Package for Meteorologists (Version 1.0.3). Zenodo. doi: 10.5281/zenodo.4493258 </br>
 
 # Thesis Supervision
 * <b>Supervisor</b>: Método de relocalización de vórtice para el sistema de pronóstico numérico de
