@@ -6,7 +6,7 @@ date: 2024-05-17
 venue: 'Tropical Cyclone Research and Review'
 citation: ' <b>Pérez-Alarcón, A.</b>; Fernández-Alvarez, J.C.; Trigo, R.M.; Nieto, R.; Gimeno, L. (2024).
 Insights into the origin of precipitation moisture for tropical cyclones during rapid intensification process.
-<i>Tropical Cyclone Research and Review</i> 13(2). 
+<i>Tropical Cyclone Research and Review</i> 13(2), 72–87.  
 <a href="https://doi.org/10.1016/j.tcrr.2024.05.001" target="blank">https://doi.org/10.1016/j.tcrr.2024.05.001</a>'
 ---
 
