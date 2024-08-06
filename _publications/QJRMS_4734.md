@@ -6,7 +6,7 @@ date: 2024-04-21
 venue: 'Quarterly Journal of the Royal Meteorological Society'
 citation: ' <b>Pérez-Alarcón, A.</b>; Coll-Hidalgo, P.; Fernández-Alvarez, J.C.; Sorí, R; da Rocha, R.P.; Reboita, M.S.;  Nieto,
 R.; Gimeno, L. (2024). Quantifying the related precipitation and moisture sources in the lifecycle of subtropical cyclones in the South Atlantic basin.
-<i>Quarterly Journal of the Royal Meteorological Society</i>. <a href="https://doi.org/10.1002/qj.4734" target="blank"> https://doi.org/10.1002/qj.4734</a>'
+<i>Quarterly Journal of the Royal Meteorological Society</i>, 150(762), 2765–2782. <a href="https://doi.org/10.1002/qj.4734" target="blank"> https://doi.org/10.1002/qj.4734</a>'
 ---
 
 ......  
