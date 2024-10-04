@@ -2,7 +2,7 @@
 title: "Assessing target areas for precipitating moisture source analysis of extratropical cyclones: An analysis based on case studies"
 collection: publications
 permalink: /publication/ESEV_HW_CUB_2024
-date: 2024-08-23
+date: 2024-08-09
 venue: ' Atmospheric Research'
 citation: 'Coll-Hidalgo, P., Nieto, R., <b>Pérez-Alarcón, A.</b>, Trigo, R. M., Fernández-Alvarez, J. C., & Gimeno, L.  (2024).
 Assessing target areas for precipitating moisture source analysis of extratropical cyclones: An analysis based on case studies.
