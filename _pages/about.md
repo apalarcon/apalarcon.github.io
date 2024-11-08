@@ -13,7 +13,6 @@ redirect_from:
 
 <b> Gender</b>: Male
  
-<b>Nationality</b>: Cuban
 
 <b>Memberships</b>: Meteorological Society of Cuba
 
@@ -27,14 +26,6 @@ redirect_from:
 * Hidrometeorology
 * Climate Change
 * Moisture Transport: from Evaporation to Precipitation
-
-# Reviewer for
-* Meteorology and Atmospheric Physics
-* Revista Cubana de Meteorología
-* Revista Cubana de Física
-* Atmosphere
-* Journal of Climate
+* Weather climate extremes
 
 
-# Last Update
-25 October 2022
