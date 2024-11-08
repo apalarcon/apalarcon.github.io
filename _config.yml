@@ -264,8 +264,8 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 scholar:
 
-  last_name: Keune
-  first_name: [Jessica]
+  last_name: Albenis
+  first_name: [Pérez-Alarcón]
 
   style: apa
   locale: en
@@ -289,7 +289,7 @@ scholar:
 
 
 
-
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 # Plugins
 plugins:
   - jekyll-paginate
@@ -297,6 +297,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-include-cache
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
