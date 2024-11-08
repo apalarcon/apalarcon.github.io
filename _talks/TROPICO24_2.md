@@ -8,7 +8,7 @@ date: 2024-10-21
 location: "Havana, Cuba"
 ---
 
-Recommended citation: <b>Pérez-Alarcón, A</b> Trigo, R.M., Nieto, R., Gimeno, L. (2024). Lagrangian analysis of moisture sources for precipitation of tropical cyclones in the North Atlantic basin . V Congress in Tropical Meteorology. Convención TROPICO 2024. Havana, Cuba. 21-25  October 2024.
+Recommended citation: <b>Pérez-Alarcón, A</b>, Trigo, R.M., Nieto, R., Gimeno, L. (2024). Lagrangian analysis of moisture sources for precipitation of tropical cyclones in the North Atlantic basin . V Congress in Tropical Meteorology. Convención TROPICO 2024. Havana, Cuba. 21-25  October 2024.
 
 
 # Abstact

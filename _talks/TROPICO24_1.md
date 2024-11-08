@@ -8,7 +8,7 @@ date: 2024-10-21
 location: "Havana, Cuba"
 ---
 
-Recommended citation: <b>Pérez-Alarcón, A</b> Sorí, R., Stojanovic, M., Vázquez, M., Trigo, R.M., Nieto, R., Gimeno, L. (2024). The first climatological study of heat waves in Cuba. V Congress in Tropical Meteorology. Convención TROPICO 2024. Havana, Cuba. 21-25  October 2024.
+Recommended citation: <b>Pérez-Alarcón, A</b>, Sorí, R., Stojanovic, M., Vázquez, M., Trigo, R.M., Nieto, R., Gimeno, L. (2024). The first climatological study of heat waves in Cuba. V Congress in Tropical Meteorology. Convención TROPICO 2024. Havana, Cuba. 21-25  October 2024.
 
 
 # Abstact
