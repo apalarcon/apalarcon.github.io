@@ -18,7 +18,8 @@ main:
 #  - title: "CV"
 #    url: /cv/
     
-#  - title: "Additional Information"
-#    url: /addinfo/
+  - title: "Additional Information"
+    url: /addinfo/
+
 #  - title: "Guide"
   #  url: /markdown/
