@@ -37,24 +37,24 @@ redirect_from:
 
 # Work experience
 
-* May 2023 - present: Posdoctoral Researcher
+* <b>May 2023 - present: Posdoctoral Researcher</b>
   * Environmental Physics Laboratory (EPhysLab)
   * University of Vigo
   * Ourense, Spain
 
-* October 2019 - May 2023: PhD Student
+* <b>October 2019 - May 2023: PhD Student</b>
   * Environmental Physics Laboratory (EPhysLab)
   * University of Vigo
   * Ourense, Spain
 
 
-* Septemrber 2019 - January 2021: Head of Department
+* <b>September 2019 - January 2021: Head of Department</b>
   * Department of Meteorology
   * Instituto Superior de Tecnologías y Ciencias Aplicadas
   * Universidad de La Habana
   * Cuba
 
-* Septemrber 2015 - September 2019: Professor and Researcher 
+* <b>September 2015 - September 2019: Professor and Researcher </b>
   * Department of Meteorology
   * Instituto Superior de Tecnologías y Ciencias Aplicadas
   * Universidad de La Habana
