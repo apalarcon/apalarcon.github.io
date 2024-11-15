@@ -7,7 +7,7 @@ author_profile: true
 
 
 # Participation in Research Projects
-* Present and future climate humidity transport over Central and South America: Mechanisms, extremes and attribution of changes. Funded by Xunta de Galicia (Grant: ED431F-2024/03), Universidade de Vigo, Spain. 2024-2028  
+* Present and future climate humidity transport over Central and South America: Mechanisms, extremes and attribution of changes. Funded by Xunta de Galicia (Grant: ED431F-2024/03), Universidade de Vigo, Spain. 2024-2027  
 *  High-resolution assessment of North Atlantic moisture transport in current climate and CMIP-6 future projections. Funded by  Ministerio de Ciencia, Innovación y Universidades ( Grant: PID2021-122314OB-I00), Universidade de Vigo, Spain, 2022-2025
 *  Extreme meteorological and hydrological risk in Spain: impact assessment, future scenarios and tools to improve resilience and adaptation to climate change. High spatial resolution hazard probability of extreme meteorological and hydrological events in Spain under future CMIP6 projections. Funded by  Ministerio de Ciencia, Innovación y Universidades ( Grant: TED2021-129152B-C43), Universidade de Vigo, Spain, 2022 – 2024
 * Sistema experto de apoyo a la toma de decisiones durante la gestión del suministro de agua del acueducto Albear. Funded by Instituto Nacional de Recursos Hidráulicos (Grant: PS113LH001-019). Instituto Superior de Tecnologías y Ciencias Aplicadas, Universidad de La Habana, Cuba, 2021-2024.
