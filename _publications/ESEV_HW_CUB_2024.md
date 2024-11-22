@@ -6,7 +6,7 @@ date: 2024-08-23
 venue: ' Earth Systems and Environment'
 citation: ' <b>Pérez-Alarcón, A.</b>; Sorí, R., Stojanovic, M., Vázquez, M., Trigo, R. M., Nieto, R., Gimeno, L.  (2024).
 Assessing the Increasing Frequency of Heat Waves in Cuba and Contributing Mechanisms. 
-<i> Earth Systems and Environment</i>.
+<i> Earth Systems and Environment</i>, 8, 1583–1599.
 <a href="https://doi.org/10.1007/s41748-024-00443-8" target="blank">https://doi.org/10.1007/s41748-024-00443-8</a>'
 ---
 
