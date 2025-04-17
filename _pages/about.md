@@ -22,7 +22,7 @@ redirect_from:
 * PhD in "Agua, Sostenibilidad y Desarollo" (Atmopsheric Sciences), University of Vigo, 2019 - 2023.
 
 
-# Profesional Interest
+# Professional Interest
 
 <b>Meteorology and Climatology</b>
 * Climate Variability,
