@@ -37,7 +37,7 @@ redirect_from:
 
 # Work experience
 
-* <b>May 2023 - present: Posdoctoral Researcher</b>
+* <b>May 2023 - present: Postdoctoral Researcher</b>
   * Environmental Physics Laboratory (EPhysLab)
   * University of Vigo
   * Ourense, Spain
