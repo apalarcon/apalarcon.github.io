@@ -5,6 +5,18 @@ permalink: /InvitedTalks/
 author_profile: true
 ---
 
+
+4 - <b> Where Does The Moisture for Tropical Cyclones Come From? </b>
+  - AulaFranciscoMorán, Asociación Meteorológica Española (AME)
+  - Date: 22 March 2025
+
+
+  <img title="Where Does The Moisture for Tropical Cyclones Come From?" alt="AulaFranciscoMoran" src="/images/AEMET_Charla.jpeg" width="800" height="400"/>
+
+
+----------------------------------------------------------------------------------------------------
+
+
 3 - <b> A brief overview of the different objectives and approaches used in moisture transport studies in EPhyLab at the University of Vigo </b>
   - International Moisture Recycling Research Network Discussion Series 4th edition
   - Date: 20 November 2024
