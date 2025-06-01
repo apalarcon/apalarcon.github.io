@@ -19,4 +19,4 @@ autorregresivos integrados de medias móviles (ARIMA) y modelos basados en redes
 CNN y red de memoria a corto plazo  LSTM). Los resultados son contrastados con mediciones de estaciones pluviométricas del Instituto Nacional de Recursos
 Hidráulicos - INRH. Para cada modelo fueron determinados el máximo error absoluto, el error sistemático (BIAS), la raíz media cuadrática de los errores,
 el coeficiente de correlación de Pearson y la eficiencia de Nash-Suttclife. Los resultados generados a partir de la capacidad predictiva de los modelos son
-prometedores y pueden ser ampliamente usados en este tipo de aplicaciones
+prometedores y pueden ser ampliamente usados en este tipo de aplicaciones.
