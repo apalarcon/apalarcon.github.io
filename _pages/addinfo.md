@@ -7,14 +7,22 @@ author_profile: true
 
 
 # Participation in Research Projects
-* Present and future climate humidity transport over Central and South America: Mechanisms, extremes and attribution of changes. Funded by Xunta de Galicia (Grant: ED431F-2024/03), Universidade de Vigo, Spain. 2024-2027  
-*  High-resolution assessment of North Atlantic moisture transport in current climate and CMIP-6 future projections. Funded by  Ministerio de Ciencia, Innovación y Universidades ( Grant: PID2021-122314OB-I00), Universidade de Vigo, Spain, 2022-2025
-*  Extreme meteorological and hydrological risk in Spain: impact assessment, future scenarios and tools to improve resilience and adaptation to climate change. High spatial resolution hazard probability of extreme meteorological and hydrological events in Spain under future CMIP6 projections. Funded by  Ministerio de Ciencia, Innovación y Universidades ( Grant: TED2021-129152B-C43), Universidade de Vigo, Spain, 2022 – 2024
-* Sistema experto de apoyo a la toma de decisiones durante la gestión del suministro de agua del acueducto Albear. Funded by Instituto Nacional de Recursos Hidráulicos (Grant: PS113LH001-019). Instituto Superior de Tecnologías y Ciencias Aplicadas, Universidad de La Habana, Cuba, 2021-2024.
-* LAGRangian analysis of the Impact on the global hydrological cycle of the Major Mechanisms of Atmospheric Moisture Transport. Funded by  Ministerio de Ciencia, Innovación y Universidades  (Grant: RTI2018-095772-B-I00), Universidade de Vigo, Spain, 2019-2022
-* Prevention of the climate change effects on endangered species, Instituto Superior de Tecnologías y Ciencias Aplicadas, Cuba, 2018-2019
-* Integration of advanced wave modeling tools and sea levels for the prediction of coastal flooding
-in Cuba, Institute of Meteorology, Cuba, 2018
+* <b>APALPADOR </b> (PID2024-155515NB-I00): Advancing the understanding on droughts and compound drought-heatwave large events in current and projected future climate via Lagrangian modelling of moisture and heat transport. Funding: MICIN. 01/09/2025-31/08/2028. PIs: R Nieto & L Gimeno. 244.500 €. Role: WORK TEAM.
+
+* <b>High-Res TC-CAR</b> High-Resolution downscaling of Tropical Cyclones in the Caribbean Region. CORDEX Flagship Pilot Study. WCRP Coordinated Regional Downscaling Experiment (CORDEX). 2025-2030. Role: PRINCIPAL INVESTIGATOR.
+
+* <b>MARINA</b> Mapping Drought Risks in Water-Stressed Regions of North Africa: An Integrated Approach. Funding: European Space Agency (ESA). 01/12/2024–31/03/2026. PIs: M Stojanovic & Z Salah. 30.000 €. Role: WORK TEAM.
+
+* <b>Excelencia ED431F 2024/03</b> Humidity transport in present and future climate over Central and South America: mechanisms, extremes and attribution of changes. Funding: Xunta de Galicia. 01/01/2024–20/11/2027. PI: R Sori. 90.000 €. Role: WORK TEAM.
+
+* <b>SETESTRELO (PID2021-122314OB-I00)</b> High-resolution assessment of North Atlantic moisture transport in current climate and CMIP-6 future projections. Funding: MICIN. 01/09/2022 – 31/08/2026. PI: R Nieto & L Gimeno. 163.350 €. Role: WORK TEAM.
+
+* <b>PS113LH001-019</b> Expert decision-making support system for the management of the Albear aqueduct water supply. Funding entity: National Institute of Hydraulic Resources of Cuba. 09/2021-09/2024. PI: Y Martínez. Role: RESEARCH TEAM.
+
+* <b>LAGRIMA (RTI2018-095772-B-I00)</b> LAGRangian analysis of the Impact on the global hydrological cycle of the Major Mechanisms of Atmospheric Moisture Transport. Funding: MICIN. 01/10/2020-30/09/2022. PI: R Nieto & L Gimeno. 84.700 €. Role: WORK TEAM.
+
+* Prevention of the climate change effects on endangered species. Funding: Ocean Foundation and See Turtles and Chelonian Conservation Society. 01/2016-12/2019. PI: J Azanza. Role: WORK TEAM.
+
 * Methodological tool for data and metadata treatment in weather and climate studies, National
 Program Climate Change in Cuba: impacts, mitigation and adaptation, Department of Meteorology, Higher Institute of Technologies and Applied Sciences, Cuba, 2015 -2016
 
