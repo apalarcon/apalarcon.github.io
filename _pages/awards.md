@@ -4,7 +4,8 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
-
+* Research award for Best Scientific Contribution, Campus Agua, UVigo (2024)
+* European Union/ERF IACOBUS Award Scientific Publications 2024. Pérez-Alarcón, A. et al. (2023) Atmos Res 285, doi:<a href="https://doi.org/10.1016/j.atmosres.2023.106640" target="blank"> 10.1016/j.atmosres.2023.106640 </a>. 
 * Distinguished Article Award in Natural and Exact Sciences awarded by the University of Havana, 2024.
 * National Annual Award of the Academy of Sciences of Cuba (2022-2023 call).
 * Atmosphere Travel Award 2023
