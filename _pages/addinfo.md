@@ -17,6 +17,8 @@ author_profile: true
 
 * <b>SETESTRELO (PID2021-122314OB-I00)</b> High-resolution assessment of North Atlantic moisture transport in current climate and CMIP-6 future projections. Funding: MICIN. 01/09/2022 – 31/08/2026. PI: R Nieto & L Gimeno. 163.350 €. Role: WORK TEAM.
 
+* <b>ESMORGA (TED2021-129152B-C43)</b> High-spatial resolution hazard probability of extreme meteorological and hydrological events in Spain under future CMIP6 projections. Funding: MICIN (Transición Ecológica-Digital). 01/12/2022 - 30/09/2025. PI: R Nieto & L Gimeno. 126.500 €. Role: WORK TEAM 
+
 * <b>PS113LH001-019</b> Expert decision-making support system for the management of the Albear aqueduct water supply. Funding entity: National Institute of Hydraulic Resources of Cuba. 09/2021-09/2024. PI: Y Martínez. Role: RESEARCH TEAM.
 
 * <b>LAGRIMA (RTI2018-095772-B-I00)</b> LAGRangian analysis of the Impact on the global hydrological cycle of the Major Mechanisms of Atmospheric Moisture Transport. Funding: MICIN. 01/10/2020-30/09/2022. PI: R Nieto & L Gimeno. 84.700 €. Role: WORK TEAM.
