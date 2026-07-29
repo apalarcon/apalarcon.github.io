@@ -7,6 +7,10 @@ author_profile: true
 
 
 # Participation in Research Projects
+* <b>CERES</b> (ED431F-2026/14 ): Compound Extreme Hydrometeorological Events in Southern Europe: Sources, Drivers and Underlying Physical Mechanisms. Funding: Xunta de Galicia. 09/2026-12/2030. PI: Jorge Eiras Barca. 115 500 €. Role: RESEARCH TEAM.
+
+* <b>CHACRAS </b> (R2CAuga26-04): Future changes in the atmospheric transport of moisture and heat and their impact on the hydroclimatic conditions of rainfed agriculture regions in South America. Funding: Xunta de Galicia and University of Vigo. 15/05/2026-15/10/2026. PI: A. Pérez-Alarcón. 10 000 €. Role: PRINCIPAL INVESTIGATOR.
+
 * <b>APALPADOR </b> (PID2024-155515NB-I00): Advancing the understanding on droughts and compound drought-heatwave large events in current and projected future climate via Lagrangian modelling of moisture and heat transport. Funding: MICIN. 01/09/2025-31/08/2028. PIs: R Nieto & L Gimeno. 244.500 €. Role: WORK TEAM.
 
 * <b>High-Res TC-CAR</b> High-Resolution downscaling of Tropical Cyclones in the Caribbean Region. CORDEX Flagship Pilot Study. WCRP Coordinated Regional Downscaling Experiment (CORDEX). 2025-2030. Role: PRINCIPAL INVESTIGATOR.
