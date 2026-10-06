@@ -1,5 +1,5 @@
 ---
-title: "agrangian and Eulerian Tracer-based Approaches to Heat Transport in Extreme Hydrometeorological Event"
+title: "Lagrangian and Eulerian Tracer-based Approaches to Heat Transport in Extreme Hydrometeorological Event"
 collection: talks
 type: "8th MedCLIVAR Conference"
 permalink: /talks/MedClivar2026_3
@@ -8,7 +8,7 @@ date: 21-09-2026
 location: "Limassol, Cyprus"
 ---
 
-Recommended citation: Eiras-Barca, J., Corredoira-Iglesias, M., González-Cámara, L. T.,  <b>Pérez-Alarcón, A.</b>,  Nieto, R., Gimeno, L. (2026). agrangian and Eulerian Tracer-based Approaches to Heat Transport in Extreme Hydrometeorological Event <i> 8th MedCLIVAR Conference</i>. Limassol, Cyprus, 21-35 September 2026.
+Recommended citation: Eiras-Barca, J., Corredoira-Iglesias, M., González-Cámara, L. T.,  <b>Pérez-Alarcón, A.</b>,  Nieto, R., Gimeno, L. (2026). Lagrangian and Eulerian Tracer-based Approaches to Heat Transport in Extreme Hydrometeorological Event. <i> 8th MedCLIVAR Conference</i>. Limassol, Cyprus, 21-35 September 2026.
 
 # Abstract
 

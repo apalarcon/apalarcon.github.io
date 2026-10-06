@@ -8,7 +8,7 @@ date: 21-09-2026
 location: "Limassol, Cyprus"
 ---
 
-Recommended citation: González-Cámara, L. T., Corredoira-Iglesias, M.,  Zaragoza-Díaz A., Eiras-Barca, J., Stojanovic, M., <b>Pérez-Alarcón, A.</b>,   Gimeno, L., Nieto, R.  (2026). Tracing Moisture and Heat in a 2012 Mediterranean Compound Event: a Lagrangian Analysis <i> 8th MedCLIVAR Conference</i>. 
+Recommended citation: González-Cámara, L. T., Corredoira-Iglesias, M.,  Zaragoza-Díaz A., Eiras-Barca, J., Stojanovic, M., <b>Pérez-Alarcón, A.</b>,   Gimeno, L., Nieto, R.  (2026). Tracing Moisture and Heat in a 2012 Mediterranean Compound Event: a Lagrangian Analysis. <i> 8th MedCLIVAR Conference</i>. 
 Limassol, Cyprus, 21-35 September 2026.
 
 # Abstract

@@ -9,7 +9,7 @@ location: "Limassol, Cyprus"
 ---
 
 Recommended citation: Corredoira-Iglesias, M., González-Cámara, L. T., Eiras-Barca, J., Stojanovic, M.,<b>Pérez-Alarcón, A.</b>;  Nieto, R., Gimeno, L. (2026). 
-Physical drivers of the 2015 August moisture-modulated heatwave over the Iberian Peninsula: a Lagrangian analysis <i> 8th MedCLIVAR Conference</i>.
+Physical drivers of the 2015 August moisture-modulated heatwave over the Iberian Peninsula: a Lagrangian analysis. <i> 8th MedCLIVAR Conference</i>.
 Limassol, Cyprus, 21-35 September 2026.
 
 # Abstract
