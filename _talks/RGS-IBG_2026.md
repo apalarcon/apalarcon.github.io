@@ -3,7 +3,7 @@ title: "Atmospheric rivers are associated with nine out of every 10 floods in ma
 collection: talks
 type: "RGS-IBG Annual International Conference 2026"
 permalink: /talks/RGS-IBG_2026
-venue: "RGS-IBG "
+venue: "RGS-IBG"
 date: 01-09-2026
 location: "London, United Kingdom"
 ---
